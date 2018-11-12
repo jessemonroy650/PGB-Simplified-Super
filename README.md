@@ -1,7 +1,7 @@
 # PGB-Simplified-Super
-A Super Simple example App for Android which compiles on *Phonegap Build* that updates one page app with an image and text.
+A Super Simple example App for Android which compiles on *Phonegap Build* that updates one HTML page app with an image and text.
 
-This is a two (2) page app. One (1) page for the HTML and CSS. One (1) page for the Javascript - save the two line in the HTML that start the app. There is no CSS, save one line to restrict the image size.
+This is a two (2) page app. One (1) page for the HTML and CSS. One (1) page for the Javascript - save the two line in the HTML that start the app. There is no CSS, save one line to restrict the image size.  It uses NO plugins.
 
 **Image changes**
 
